@@ -275,6 +275,12 @@ font-family: 'Courier New', Courier, monospace;
 /* ------ Text ------ */
 
 
+.igs-text-none
+{
+    text-decoration: none;
+}
+
+
 .igs-text-start
 {
     text-align: start;
