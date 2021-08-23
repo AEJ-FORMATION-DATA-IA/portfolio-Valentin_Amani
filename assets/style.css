@@ -1,13 +1,12 @@
 
 
 /*
+Stylesheet
 style.css
 */
 
 
-
 /* ------------------------------------------------------------------------------------------------  */
-
 
 
 /* ------ Background ------ */
@@ -18,30 +17,25 @@ style.css
     background-color: rgba(0, 0, 0, 0.6);
 }
 
-
 .igs-back-white
 {
     background-color: rgb(255, 255, 255);
 }
-
 
 .igs-back-azure
 {
     background-color: rgb(240, 248, 255);
 }
 
-
 .igs-back-ia_jpg
 {
     background-image: url(images/ia.jpg);
 }
 
-
 .igs-back-cover
 {
     background-size: cover;
 }
-
 
 
 /* ------ Color ------ */
@@ -53,7 +47,6 @@ style.css
 }
 
 
-
 /* ------ Font ------  */
 
 
@@ -62,48 +55,40 @@ style.css
     font-family: monospace;
 }
 
-
 .igs-font-courier
 {
 font-family: 'Courier New', Courier, monospace;
 }
-
 
 .igs-font-sans-serif
 {
     font-family: sans-serif;
 }
 
-
 .igs-font-1_3
 {
     font-size: 1.3em;
 }
-
 
 .igs-font-1_5
 {
     font-size: 1.5em;
 }
 
-
 .igs-font-1
 {
     font-size: 1em;
 }
-
 
 .igs-font-1_2
 {
     font-size: 1.2em;
 }
 
-
 .igs-font-bold
 {
     font-weight: bold;
 }
-
 
 
 /* ------ Flex Box ------ */
@@ -114,24 +99,20 @@ font-family: 'Courier New', Courier, monospace;
     display: flex;
 }
 
-
 .igs-justify-space-evenly
 {
     justify-content: space-evenly;
 }
-
 
 .igs-justify-space-around
 {
     justify-content: space-around;
 }
 
-
 .igs-justify-flex-end
 {
     justify-content: flex-end;
 }
-
 
 
 /* ------ Height ------ */
@@ -142,48 +123,40 @@ font-family: 'Courier New', Courier, monospace;
     height: auto;
 }
 
-
 .igs-height-2
 {
     height: 2em;
 }
-
 
 .igs-height-5
 {
     height: 5em;
 }
 
-
 .igs-height-60
 {
     height: 60px;
 }
-
 
 .igs-height-100
 {
     height: 100%;
 }
 
-
 .igs-height-300
 {
     height: 300px;
 }
-
 
 .igs-height-450
 {
     height: 450px;
 }
 
-
 .igs-height-492
 {
     height: 492px;
 }
-
 
 
 /* ------ Margin ------ */
@@ -194,54 +167,45 @@ font-family: 'Courier New', Courier, monospace;
     margin: auto;
 }
 
-
 .igs-margin-top_-20
 {
     margin-top: -20px;
 }
-
 
 .igs-margin-top_-8
 {
     margin-top: -8px;
 }
 
-
 .igs-margin-top-60
 {
     margin-top: 60px;
 }
-
 
 .igs-margin-right_-20
 {
     margin-right: -20px;
 }
 
-
 .igs-margin-left_-30
 {
     margin-left: -30px;
 }
-
 
 .igs-margin-left_-20
 {
     margin-left: -20px;
 }
 
-
 .igs-margin-left-6
 {
     margin-left: 6px;
 }
 
-
 .igs-margin-bottom-20
 {
     margin-bottom: 20px;
 }
-
 
 
 /* ------ Padding ------ */
@@ -252,24 +216,20 @@ font-family: 'Courier New', Courier, monospace;
     padding: 10px;
 }
 
-
 .igs-padding-20
 {
     padding: 20px;
 }
-
 
 .igs-padding-top-10
 {
     padding-top: 10px;
 }
 
-
 .igs-padding-bottom-70
 {
     padding-bottom: 70px;
 }
-
 
 
 /* ------ Text ------ */
@@ -280,18 +240,15 @@ font-family: 'Courier New', Courier, monospace;
     text-decoration: none;
 }
 
-
 .igs-text-start
 {
     text-align: start;
 }
 
-
 .igs-text-center
 {
     text-align: center;
 }
-
 
 
 /* ------ Width ------ */
@@ -302,42 +259,35 @@ font-family: 'Courier New', Courier, monospace;
     width: auto;
 }
 
-
 .igs-width-2
 {
     width: 2em;
 }
-
 
 .igs-width-5
 {
     width: 5em;
 }
 
-
 .igs-width-160
 {
     width: 160px;
 }
-
 
 .igs-width-500
 {
     width: 500px;
 }
 
-
 .igs-width-1430
 {
     width: 1430px;
 }
 
-
 .igs-width-1450
 {
     width: 1450px;
 }
-
 
 .igs-width-1470
 {
@@ -345,5 +295,5 @@ font-family: 'Courier New', Courier, monospace;
 }
 
 
-
 /* ------------------------------------------------------------------------------------------------*/
+
